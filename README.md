@@ -7,9 +7,9 @@ Analysis of Newark Liberty International Airport (EWR) using the NYC flights dat
 
 | # | Question | Status |
 |---|----------|--------|
-| 1 | Distinct destinations connected to the airport | Done |
-| 2 | Rounded average of distinct destinations per day | Done |
-| 5 | Month with the highest accumulated departure delay | Done |
+| 1 | Distinct destinations connected to the airport 
+| 2 | Rounded average of distinct destinations per day 
+| 5 | Month with the highest accumulated departure delay 
 
 ## Repository structure
 
