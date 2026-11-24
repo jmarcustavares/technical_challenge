@@ -17,7 +17,6 @@ Analysis of Newark Liberty International Airport (EWR) using the NYC flights dat
 .
 ├── README.md
 ├── requirements.txt
-├── run_queries.py      # runs the SQL files with DuckDB
 ├── sql/
 │   ├── q01_distinct_destinations.sql
 │   ├── q02_avg_daily_destinations.sql
